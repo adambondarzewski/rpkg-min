@@ -1,3 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 .travis
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
